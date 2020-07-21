@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=newtonsecondlaw
+comment1.params=u\ t\ a
+comment1.target=void\ init(int,\ int,\ int)
+comment2.params=
+comment2.target=void\ displacement()
+comment3.params=
+comment3.target=void\ result()
+comment4.params=
+comment4.target=void\ main()
+numComments=5

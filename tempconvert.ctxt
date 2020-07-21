@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=tempconvert
+comment1.params=
+comment1.target=tempconvert()
+comment2.params=t
+comment2.target=tempconvert(double)
+comment3.params=
+comment3.target=double\ convert2celcius()
+comment4.params=
+comment4.target=double\ getTemp()
+comment5.params=
+comment5.target=void\ main()
+numComments=6
