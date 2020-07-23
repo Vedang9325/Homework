@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=chariden
+comment1.params=ch1
+comment1.target=void\ init(char)
+comment2.params=
+comment2.target=void\ identify()
+comment3.params=ch1
+comment3.target=void\ main(char)
+numComments=4
